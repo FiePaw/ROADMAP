@@ -1,2 +1,25 @@
 # ROADMAP
 My Project Progress
+- Rendering World ✅
+- Setup Core Plugin 30%
+- Lobby NPC/Remake 10%
+- Optimized File ✅
+- Optimized Plugin 20%
+- Economy Optimized
+  - Economy Shop
+    - Block Building✅
+    - Colored Block ✅
+    - Minerals Sell Optimized
+    - Potions & Arrow ✅
+    - Farming Sell Optimized
+    - Decoration Only Buy and sell set to 1
+    - Food Price optimized
+    - Mob Drops Price Optimized
+    - Remove Combat/Tools
+    - Redstone Price Optimized
+- Quest/Grind Optimized
+  - ActivityRewarder
+  - CombatPet
+  - EcoEnchant
+  - EcoSkill
+  - Slimefun
