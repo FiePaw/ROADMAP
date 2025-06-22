@@ -39,3 +39,8 @@ My Project Progress
     - Networks
     - InfinityExpansion
     - FastMachine
+    - *BUG NEED TO FIX*
+      - BASIC STORAGE - InfinityXpansion
+      - FAST CRAFTING TABLE - FastMachine
+      - INFINITY STORAGE UNIT(SEMUA) - InfinityXpansion
+      - QUANTUM STORAGE - Network
