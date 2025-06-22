@@ -4,19 +4,19 @@ My Project Progress
 - Setup Core Plugin 30%
 - Lobby NPC/Remake 10%
 - Optimized File ✅
-- Optimized Plugin 20%
+- Optimized Plugin 30%
 - Economy Optimized
   - Economy Shop
     - Block Building✅
     - Colored Block ✅
-    - Minerals Sell Optimized
+    - Minerals Sell Optimized ✅
     - Potions & Arrow ✅
-    - Farming Sell Optimized
-    - Decoration Only Buy and sell set to 1
-    - Food Price optimized
-    - Mob Drops Price Optimized
-    - Remove Combat/Tools
-    - Redstone Price Optimized
+    - Farming Sell Optimized ✅
+    - Decoration Only Buy and sell set to 1 ✅
+    - Food Price optimized ✅
+    - Mob Drops Price Optimized✅
+    - Remove Combat/Tools✅
+    - Redstone Price Optimized✅
 - Quest/Grind Optimized
   - ActivityRewarder
   - CombatPet
