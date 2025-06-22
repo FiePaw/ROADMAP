@@ -32,6 +32,7 @@ My Project Progress
   - CombatPet
   - EcoEnchant
   - EcoSkill
+  - Guilds
   - Slimefun
     - FluffyMachines
     - FNAmplications
