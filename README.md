@@ -23,3 +23,8 @@ My Project Progress
   - EcoEnchant
   - EcoSkill
   - Slimefun
+    - FluffyMachines
+    - FNAmplications
+    - Networks
+    - InfinityExpansion
+    - FastMachine
