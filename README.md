@@ -1,10 +1,10 @@
 # ROADMAP
 My Project Progress
 - Rendering World ✅
-- Setup Core Plugin 30%
-- Lobby NPC/Remake 10%
+- Setup Core Plugin 40%
+- Lobby NPC/Remake 30%
 - Optimized File ✅
-- Optimized Plugin 30%
+- Optimized Plugin 35%
 - Economy Optimized
   - Economy Shop
     - Block Building✅
@@ -18,6 +18,8 @@ My Project Progress
     - Remove Combat/Tools✅
     - Redstone Price Optimized✅
 - Quest/Grind Optimized
+  - ODailyQuest
+    - Configure New Quest
   - LushReward
     - Daily Reward
     - Playtime Reward
