@@ -39,6 +39,7 @@ My Project Progress
     - Networks
     - InfinityExpansion
     - FastMachine
+    - GeneticChickengineering
     - *BUG NEED TO FIX*
       - BASIC STORAGE - InfinityXpansion
       - FAST CRAFTING TABLE - FastMachine
