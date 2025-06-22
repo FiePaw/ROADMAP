@@ -18,7 +18,9 @@ My Project Progress
     - Remove Combat/Tools✅
     - Redstone Price Optimized✅
 - Quest/Grind Optimized
-  - ActivityRewarder
+  - LushReward
+    - Daily Reward
+    - Playtime Reward
   - CombatPet
   - EcoEnchant
   - EcoSkill
