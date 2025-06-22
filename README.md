@@ -2,6 +2,12 @@
 My Project Progress
 - Rendering World ✅
 - Setup Core Plugin 40%
+  - TAB
+  - Scoreboard
+  - NPC Placement
+  - RoseStacker
+  - Chunk Limiter
+  - CommandPanels
 - Lobby NPC/Remake 30%
 - Optimized File ✅
 - Optimized Plugin 35%
