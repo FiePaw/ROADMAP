@@ -8,7 +8,7 @@ My Project Progress
   - RoseStacker
   - Chunk Limiter
   - CommandPanels
-- Lobby NPC/Remake 30%
+- Lobby NPC/Remake 50%
 - Optimized File ✅
 - Optimized Plugin 35%
 - Economy Optimized
@@ -56,6 +56,9 @@ My Project Progress
     - Disable some sf/sl or ETC item to save in
   - Guilds
     - Optimize Permission per rank
+  - Skript
+    - On First join tp to tutorial
+    - if they enter to door make rtp
   - Slimefun
     - FluffyMachines
     - FNAmplications
