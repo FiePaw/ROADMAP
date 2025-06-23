@@ -1,7 +1,7 @@
 # ROADMAP
 My Project Progress
 - Rendering World ✅
-- Setup Core Plugin 40%
+- Setup Core Plugin 50%
   - TAB
   - Scoreboard
   - NPC Placement
@@ -41,6 +41,19 @@ My Project Progress
     - Add Broadcast lead can be buy
   - EcoEnchant
   - EcoSkill
+  - VoteParty
+    - PerRank Reward
+    - setup reward for all player
+  - CoinsEngine
+    - Nexgem setup
+  - AxPlayerWarp
+    - Permission Warp
+  - BetterRTP
+    - Setup RTP Payment
+  - LPC
+    - Setup PerRank Color chat
+  - AxVault
+    - Disable some sf/sl or ETC item to save in
   - Guilds
     - Optimize Permission per rank
   - Slimefun
