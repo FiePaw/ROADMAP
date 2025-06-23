@@ -45,7 +45,7 @@ My Project Progress
     - PerRank Reward
     - setup reward for all player
   - CoinsEngine
-    - Nexgem setup
+    - Nexgem setup✅
   - AxPlayerWarp
     - Permission Warp
   - BetterRTP
