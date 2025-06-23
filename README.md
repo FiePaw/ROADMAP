@@ -28,11 +28,21 @@ My Project Progress
     - Configure New Quest
   - LushReward
     - Daily Reward
+      - Day 1 - 7 Money - Key Rare
+      - Day 7 - 14 Money - Key Epic - Nexgem 250
+      - Day 14 - 30 Money - Key Premium - Nexgem 500
     - Playtime Reward
+      - Money 50%
+      - Dust Exchange for RPG (Rare) 25%
+      - Dust Exchange for RPG (Epic) 25%
+      - Dust Exchange for Key Gacha 25%
   - CombatPet
+    - Buy screen for special lead
+    - Add Broadcast lead can be buy
   - EcoEnchant
   - EcoSkill
   - Guilds
+    - Optimize Permission per rank
   - Slimefun
     - FluffyMachines
     - FNAmplications
