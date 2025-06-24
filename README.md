@@ -3,14 +3,17 @@ My Project Progress
 - Rendering World ✅
 - Setup Core Plugin 50%
   - TAB
-  - Scoreboard
+  - Scoreboard 30%
   - NPC Placement
-  - RoseStacker
-  - Chunk Limiter
+  - LagFixer
+  - RoseStacker✅
+  - Chunk Limiter✅
   - CommandPanels
+  - WorldGuard
+  - 
 - Lobby NPC/Remake 50%
 - Optimized File ✅
-- Optimized Plugin 35%
+- Optimized Plugin 45%
 - Economy Optimized
   - Economy Shop 
     - Block Building✅
@@ -85,11 +88,12 @@ My Project Progress
   - CoinsEngine
     - Nexgem setup✅
   - AxPlayerWarp
-    - Permission Warp
+    - Permission Per Warp
     - Language Indo✅
     - Price Creation Warp 25k✅
   - BetterRTP
     - Setup RTP Payment
+    - PermissionGroup
   - PyroMining
   - LPC
     - Setup PerRank Color chat 90% (Nunggu rank baru)
@@ -103,6 +107,7 @@ My Project Progress
     - On First join tp to tutorial
     - if they enter to door make rtp
     - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)
+    - On First Join set Permission betterrtp.eco.bypass for 2 Days
   - Slimefun
     - FluffyMachines
     - FNAmplications
