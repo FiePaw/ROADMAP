@@ -86,17 +86,22 @@ My Project Progress
     - Nexgem setup✅
   - AxPlayerWarp
     - Permission Warp
+    - Language Indo✅
+    - Price Creation Warp 25k✅
   - BetterRTP
     - Setup RTP Payment
   - LPC
-    - Setup PerRank Color chat
+    - Setup PerRank Color chat 90% (Nunggu rank baru)
   - AxVault
-    - Disable some sf/sl or ETC item to save in
+    - Disable some sf/sl or ETC item to save in✅
+    - Vault Permission set to high thats mean vault permission 1-10 not only 1✅
+    - Lang indo ✅
   - Guilds
     - Optimize Permission per rank
   - Skript
     - On First join tp to tutorial
     - if they enter to door make rtp
+    - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)
   - Slimefun
     - FluffyMachines
     - FNAmplications
