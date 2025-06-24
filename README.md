@@ -77,6 +77,8 @@ My Project Progress
     - Add Broadcast lead can be buy
   - EcoEnchant
   - EcoSkill
+    - Add 100 Level to all Skills✅
+    - 200 Per Skills✅
   - VoteParty
     - PerRank Reward
     - setup reward for all player
