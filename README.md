@@ -4,8 +4,8 @@ My Project Progress
 - Setup Core Plugin 50%
   - TAB
   - Scoreboard 30%
-  - NPC Placement
-  - LagFixer
+  - NPC Placement 30%
+  - LagFixer✅
   - RoseStacker✅
   - Chunk Limiter✅
   - CommandPanels
@@ -78,13 +78,16 @@ My Project Progress
   - CombatPet
     - Buy screen for special lead
     - Add Broadcast lead can be buy
-  - EcoEnchant
+  - EcoEnchant✅
   - EcoSkill
     - Add 100 Level to all Skills✅
     - 200 Per Skills✅
   - VoteParty
-    - PerRank Reward
-    - setup reward for all player
+    - PerRank Reward✅
+      - voteparty.specialreward.1✅
+      - voteparty.specialreward.2✅
+      - voteparty.specialreward.3✅
+    - setup reward for all player✅
   - CoinsEngine
     - Nexgem setup✅
   - AxPlayerWarp
@@ -95,9 +98,11 @@ My Project Progress
     - Setup RTP Payment
     - PermissionGroup
   - PyroMining
+  - Kits
+  - TempFly✅
   - LPC
     - Setup PerRank Color chat 90% (Nunggu rank baru)
-  - AxVault
+  - AxVault✅
     - Disable some sf/sl or ETC item to save in✅
     - Vault Permission set to high thats mean vault permission 1-10 not only 1✅
     - Lang indo ✅
