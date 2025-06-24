@@ -125,3 +125,9 @@ My Project Progress
       - FAST CRAFTING TABLE - FastMachine
       - INFINITY STORAGE UNIT(SEMUA) - InfinityXpansion
       - QUANTUM STORAGE - Network
+
+
+
+# Saran
+- Nanem keluar dust buat di tuker ke gacha/rpg
+- 
