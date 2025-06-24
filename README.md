@@ -90,6 +90,7 @@ My Project Progress
     - Price Creation Warp 25k✅
   - BetterRTP
     - Setup RTP Payment
+  - PyroMining
   - LPC
     - Setup PerRank Color chat 90% (Nunggu rank baru)
   - AxVault
