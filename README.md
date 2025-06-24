@@ -28,14 +28,50 @@ My Project Progress
     - Configure New Quest
   - LushReward
     - Daily Reward
-      - Day 1 - 7 Money - Key Rare
-      - Day 7 - 14 Money - Key Epic - Nexgem 250
-      - Day 14 - 30 Money - Key Premium - Nexgem 500
+      - Day 1 - 7 Money - Key Rare✅
+      - Day 7 - 14 Money - Key Epic - Nexgem 250✅
+      - Day 14 - 30 Money - Key Premium - Nexgem 500✅
     - Playtime Reward
-      - Money 50%
-      - Dust Exchange for RPG (Rare) 25%
-      - Dust Exchange for RPG (Epic) 25%
-      - Dust Exchange for Key Gacha 25%
+      - Play 30 Minutes:
+        - Money 5k
+        - Dust Exchange RPG (Rare) 1
+      - Play 1 Hour:
+        - Money 10k
+        - Dust Exchange RPG (Rare) 2
+        - Dust Exchange RPG (Epic) 1
+      - Play 2 Hour:
+        - Money 15k
+        - Dust Exchange RPG (Rare) 3
+        - Dust Exchange RPG (Epic) 2
+        - Dust Exchange RPG (Legend) 1
+      - Play 3 Hour:
+        - Money 20k
+        - Dust Exchange RPG (Rare) 4
+        - Dust Exchange RPG (Epic) 3
+        - Dust Exchange RPG (Legend) 2
+      - Play 4 Hour:
+        - Money 25k
+        - Dust Exchange RPG (Rare) 5
+        - Dust Exchange RPG (Epic) 4
+        - Dust Exchange RPG (Legend) 3
+      - Play 6 Hour:
+        - Money 30k
+        - Dust Exchange RPG (Rare) 6
+        - Dust Exchange RPG (Epic) 5
+        - Dust Exchange RPG (Legend) 4
+        - Dust Exchange RPG (Mythic) 1
+      - Play 8 Hour:
+        - Money 35k
+        - Dust Exchange RPG (Rare) 7
+        - Dust Exchange RPG (Epic) 8
+        - Dust Exchange RPG (Legend) 5
+        - Dust Exchange RPG (Mythic) 2
+      - Play 10 Hour:
+        - Money 50k
+        - Dust Exchange RPG (Rare) 8
+        - Dust Exchange RPG (Epic) 9
+        - Dust Exchange RPG (Legend) 6
+        - Dust Exchange RPG (Mythic) 3
   - CombatPet
     - Buy screen for special lead
     - Add Broadcast lead can be buy
