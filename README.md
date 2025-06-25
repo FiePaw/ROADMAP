@@ -3,6 +3,7 @@ My Project Progress
 - Rendering World ✅
 - Setup Core Plugin 50%
   - TAB
+  - GrimAC Fix
   - Scoreboard 30%
   - NPC Placement 30%
   - LagFixer✅
