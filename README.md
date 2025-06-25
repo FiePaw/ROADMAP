@@ -17,6 +17,7 @@ My Project Progress
     - Mining Exchange
     - Farming Exchange
 - Lobby NPC/Remake 50%
+  - Implementation Command NPC
 - Optimized File ✅
 - Optimized Plugin 45%
 - Economy Optimized
