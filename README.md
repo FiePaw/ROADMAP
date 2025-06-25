@@ -10,6 +10,10 @@ My Project Progress
   - Chunk Limiter✅
   - CommandPanels
   - WorldGuard
+    - Spawn✅
+    - Tutorial✅
+    - Dungeon (Progress Build harus replace map karna rusak)
+    - Any?
   - Shopkeepers
     - Dungeon Exchange
     - Playtime Exchane
@@ -83,10 +87,10 @@ My Project Progress
     - Buy screen for special lead
     - Add Broadcast lead can be buy
   - EcoEnchant✅
-  - EcoSkill
+  - EcoSkill✅
     - Add 100 Level to all Skills✅
     - 200 Per Skills✅
-  - VoteParty
+  - VoteParty✅
     - PerRank Reward✅
       - voteparty.specialreward.1✅
       - voteparty.specialreward.2✅
@@ -99,9 +103,8 @@ My Project Progress
     - Language Indo✅
     - Price Creation Warp 25k✅
   - BetterRTP
-    - Setup RTP Payment
-    - PermissionGroup
-  - PyroMining
+    - Setup RTP Payment✅
+  - PyroMining✅
   - Kits
   - TempFly✅
   - LPC
@@ -113,10 +116,10 @@ My Project Progress
   - Guilds
     - Optimize Permission per rank
   - Skript
-    - On First join tp to tutorial
-    - if they enter to door make rtp
+    - On First join tp to tutorial✅
+    - if they enter to door make rtp✅
     - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)✅
-    - On First Join set Permission betterrtp.eco.bypass for 2 Days
+    - On First Join set Permission betterrtp.eco.bypass for 2 Days✅
     - Area Annoucer✅
   - Slimefun
     - FluffyMachines
