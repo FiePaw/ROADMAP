@@ -16,6 +16,7 @@ My Project Progress
     - Bosses Dungeon Exchange
     - Mining Exchange
     - Farming Exchange
+    - GemsStone RPG Exchange
 - Lobby NPC/Remake 50%
   - Implementation Command NPC
 - Optimized File ✅
@@ -33,8 +34,8 @@ My Project Progress
     - Remove Combat/Tools✅
     - Redstone Price Optimized✅
 - Quest/Grind Optimized
-  - ODailyQuest
-    - Configure New Quest
+  - ODailyQuest✅
+    - Add Value Reward ✅
   - LushReward
     - Daily Reward
       - Day 1 - 7 Money - Key Rare✅
@@ -42,45 +43,42 @@ My Project Progress
       - Day 14 - 30 Money - Key Premium - Nexgem 500✅
     - Playtime Reward
       - Play 30 Minutes:
-        - Money 5k
-        - Dust Exchange RPG (Rare) 1
+        - Money 5k✅
+        - Dust Exchange RPG (Rare) 1✅
       - Play 1 Hour:
-        - Money 10k
-        - Dust Exchange RPG (Rare) 2
-        - Dust Exchange RPG (Epic) 1
+        - Money 10k✅
+        - Dust Exchange RPG (Epic) 1✅
       - Play 2 Hour:
-        - Money 15k
-        - Dust Exchange RPG (Rare) 3
-        - Dust Exchange RPG (Epic) 2
-        - Dust Exchange RPG (Legend) 1
+        - Money 15k✅
+        - Dust Exchange RPG (Legend) 1✅
       - Play 3 Hour:
-        - Money 20k
-        - Dust Exchange RPG (Rare) 4
-        - Dust Exchange RPG (Epic) 3
-        - Dust Exchange RPG (Legend) 2
+        - Money 20k✅
+        - Dust Exchange RPG (Rare) 4✅
+        - Dust Exchange RPG (Epic) 3✅
+        - Dust Exchange RPG (Legend) 2✅
       - Play 4 Hour:
-        - Money 25k
-        - Dust Exchange RPG (Rare) 5
-        - Dust Exchange RPG (Epic) 4
-        - Dust Exchange RPG (Legend) 3
+        - Money 25k✅
+        - Dust Exchange RPG (Rare) 5✅
+        - Dust Exchange RPG (Epic) 4✅
+        - Dust Exchange RPG (Legend) 3✅
       - Play 6 Hour:
-        - Money 30k
-        - Dust Exchange RPG (Rare) 6
-        - Dust Exchange RPG (Epic) 5
-        - Dust Exchange RPG (Legend) 4
-        - Dust Exchange RPG (Mythic) 1
+        - Money 30k✅
+        - Dust Exchange RPG (Rare) 6✅
+        - Dust Exchange RPG (Epic) 5✅
+        - Dust Exchange RPG (Legend) 4✅
+        - Dust Exchange RPG (Mythic) 1✅
       - Play 8 Hour:
-        - Money 35k
-        - Dust Exchange RPG (Rare) 7
-        - Dust Exchange RPG (Epic) 8
-        - Dust Exchange RPG (Legend) 5
-        - Dust Exchange RPG (Mythic) 2
+        - Money 35k✅
+        - Dust Exchange RPG (Rare) 7✅
+        - Dust Exchange RPG (Epic) 8✅
+        - Dust Exchange RPG (Legend) 5✅
+        - Dust Exchange RPG (Mythic) 2✅
       - Play 10 Hour:
-        - Money 50k
-        - Dust Exchange RPG (Rare) 8
-        - Dust Exchange RPG (Epic) 9
-        - Dust Exchange RPG (Legend) 6
-        - Dust Exchange RPG (Mythic) 3
+        - Money 50k✅
+        - Dust Exchange RPG (Rare) 8✅
+        - Dust Exchange RPG (Epic) 9✅
+        - Dust Exchange RPG (Legend) 6✅
+        - Dust Exchange RPG (Mythic) 3✅
   - CombatPet
     - Buy screen for special lead
     - Add Broadcast lead can be buy
@@ -117,7 +115,7 @@ My Project Progress
   - Skript
     - On First join tp to tutorial
     - if they enter to door make rtp
-    - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)
+    - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)✅
     - On First Join set Permission betterrtp.eco.bypass for 2 Days
     - Area Annoucer✅
   - Slimefun
