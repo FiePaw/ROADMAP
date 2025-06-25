@@ -10,7 +10,12 @@ My Project Progress
   - Chunk Limiter✅
   - CommandPanels
   - WorldGuard
-  - 
+  - Shopkeepers
+    - Dungeon Exchange
+    - Playtime Exchane
+    - Bosses Dungeon Exchange
+    - Mining Exchange
+    - Farming Exchange
 - Lobby NPC/Remake 50%
 - Optimized File ✅
 - Optimized Plugin 45%
