@@ -4,7 +4,7 @@ My Project Progress
 - Setup Core Plugin 50%
   - TAB
   - GrimAC Fix
-  - Scoreboard 30%
+  - Scoreboard 90% (Nunggu Dungeon)
   - NPC Placement 30%
   - LagFixer✅
   - RoseStacker✅
