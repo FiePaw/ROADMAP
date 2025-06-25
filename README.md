@@ -118,6 +118,7 @@ My Project Progress
     - if they enter to door make rtp
     - Make Skript /pwbc only execute by console and brodcasted (AxPlayerWarps)
     - On First Join set Permission betterrtp.eco.bypass for 2 Days
+    - Area Annoucer✅
   - Slimefun
     - FluffyMachines
     - FNAmplications
