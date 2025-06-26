@@ -142,3 +142,4 @@ My Project Progress
 # Saran
 - Nanem keluar dust buat di tuker ke gacha/rpg
 - Bikin sistem ranking mingguan untuk top grinder, dan kasih reward kecil (misalnya item langka atau title).
+- Saran ku dari jorge/jziemniakys1 kalian bisa tambahin senjata custem kaya spear atau longsword atau yg lain lain kaya senjata zaman pertengahan gitu
