@@ -3,9 +3,9 @@ My Project Progress
 - Rendering World ✅
 - Setup Core Plugin 50%
   - TAB
-  - GrimAC Fix
+  - GrimAC Fix✅
   - Scoreboard 90% (Nunggu Dungeon)
-  - NPC Placement 30%
+  - NPC Placement 70%
   - LagFixer✅
   - RoseStacker✅
   - Chunk Limiter✅
