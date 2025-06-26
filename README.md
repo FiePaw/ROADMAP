@@ -22,8 +22,10 @@ My Project Progress
     - Mining Exchange
     - Farming Exchange
     - GemsStone RPG Exchange
-- Lobby NPC/Remake 50%
-  - Implementation Command NPC
+- Lobby NPC/Remake 85%
+  - Implementation Command NPC✅
+  - Hologram NPC
+  - Hologram INFO
 - Optimized File ✅
 - Optimized Plugin 45%
 - Economy Optimized
