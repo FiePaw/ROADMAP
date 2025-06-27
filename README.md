@@ -137,7 +137,18 @@ My Project Progress
       - INFINITY STORAGE UNIT(SEMUA) - InfinityXpansion
       - QUANTUM STORAGE - Network
 
-
+#Fish Setup
+- Fix Fish Name
+- Fix Weight for rare fish
+- loot condition fix
+- game condition fix (must tested on bedrock)
+- game condition filter bedrock and java
+- add fish shark
+- add bait
+- add new rod
+- texture fishing changeing
+- game conditions add textures
+- gacha fish
 
 # Saran
 - Nanem keluar dust buat di tuker ke gacha/rpg
