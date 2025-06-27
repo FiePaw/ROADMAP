@@ -90,9 +90,9 @@ My Project Progress
     - Buy screen for special lead
     - Add Broadcast lead can be buy
   - EcoEnchant✅
-  - EcoSkill✅
-    - Add 100 Level to all Skills✅
-    - 200 Per Skills✅
+  - EcoSkill changed to AuraSkills
+    - Add 100 Level to all Skills
+    - 200 Per Skills
   - VoteParty✅
     - PerRank Reward✅
       - voteparty.specialreward.1✅
