@@ -1,3 +1,7 @@
+# 🟧 = Lakuin pas abis beta test.
+# ✅ = Selesai.
+# 🟦 = Di setup bareng.
+
 # ROADMAP
 My Project Progress
 - Rendering World ✅
@@ -138,19 +142,25 @@ My Project Progress
       - QUANTUM STORAGE - Network
 
 #Fish Setup
-- Fix Fish Name
-- Fix Weight for rare fish
-- loot condition fix
+- Fix Fish Name ✅
+- Fix Weight for rare fish ✅
+- loot condition fix✅
 - game condition fix (must tested on bedrock)
-- game condition filter bedrock and java
-- add fish shark
-- add bait
-- add new rod
-- texture fishing changeing
+- game condition filter bedrock and java ✅
+- add fish shark ✅
+- add bait 🟧
+- add new rod 🟧
+- texture fishing changeing ✅
 - game conditions add textures
-- gacha fish
+- gacha fish🟦
+
+#New Featured
+-  
+-
 
 # Saran
 - Nanem keluar dust buat di tuker ke gacha/rpg
 - Bikin sistem ranking mingguan untuk top grinder, dan kasih reward kecil (misalnya item langka atau title).
 - Saran ku dari jorge/jziemniakys1 kalian bisa tambahin senjata custem kaya spear atau longsword atau yg lain lain kaya senjata zaman pertengahan gitu
+- nether bug
+- ngumpulin ikan mitik 1 stack buat dapet pancingan OP
