@@ -166,3 +166,16 @@ My Project Progress
 - Saran ku dari jorge/jziemniakys1 kalian bisa tambahin senjata custem kaya spear atau longsword atau yg lain lain kaya senjata zaman pertengahan gitu
 - nether bug
 - ngumpulin ikan mitik 1 stack buat dapet pancingan OP
+- Toko Seed
+  - Wortel seed
+  - Pineapple seed
+  - Blueberry seed
+- Seed Epic
+  - Candy Blossom
+  - Watermelon seed
+  - Sunflower seed
+  - Feijoa
+  - Lokwod
+  - Bean stalk
+  - Grape
+  - Sugar Apple
