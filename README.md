@@ -5,11 +5,12 @@
 # ROADMAP
 My Project Progress
 - Rendering World ✅
-- Setup Core Plugin 50%
+- Setup Core Plugin 80%
   - TAB
+  - CustomVoting Setup Reward
   - GrimAC Fix✅
   - Scoreboard 90% (Nunggu Dungeon)
-  - NPC Placement 90%
+  - NPC Placement 90% (Nunggu Garden)
   - LagFixer✅
   - RoseStacker✅
   - Chunk Limiter✅
