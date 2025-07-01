@@ -94,8 +94,8 @@ My Project Progress
         - Dust Exchange RPG (Legend) 6✅
         - Dust Exchange RPG (Mythic) 3✅
   - CombatPet
-    - Buy screen for special lead
-    - Add Broadcast lead can be buy
+    - Buy screen for special lead✅
+    - Add Broadcast lead can be buy✅
   - EcoEnchant✅
   - EcoSkill changed to AuraSkills
     - Add 100 Level to all Skills
