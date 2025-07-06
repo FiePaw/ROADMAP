@@ -157,9 +157,36 @@ My Project Progress
 - game conditions add textures
 - gacha fish🟦
 
-#New Featured
--  
--
+# RPG SETUP
+- Rpg effect add to old RPG
+- add the basic effect to rpg RARE/EPIC
+- add new rpg 1 mythic
+- add new rpg 1 legend
+
+# GACHA FULL SETUP
+- FISH ROD CRATES UI
+- BAIT CRATES UI
+- KEY SHOP UI REQUIRE EXCELLENTSHOP
+- KEY SHOP PRICE RANGE
+
+# FISHING FULL SETUP
+- ADD BANANA ROD
+- ADD SPECIAL FISH TO VOID AND NETHER
+- ADD 50% MYTHIC FISH TO VOID
+
+#DUNGEON FULL SETUP 
+- DUNGEON ENTRY UI
+- DUNGEON CHANCE GO GET NEXGLINT PER KILL MONSTER
+- DUNGEON BOSS KILL GET NEXGLINT FRAGMENT
+- DUNGEON REMAP 1
+- DUNGEON REMAP 2
+
+#BEDROCK CONVERT
+- NEXGARDEN BUG
+  - ANGGUR
+  - APEL
+- SMALL SPACE FONT
+- NEW RANK
 
 # Saran
 - Nanem keluar dust buat di tuker ke gacha/rpg
