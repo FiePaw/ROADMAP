@@ -7,3 +7,4 @@
 - Fix Dungeon
 - Fix TheEnd
 - Fix Mancing di java sama bedrock mancing nya gak dapet ikan custom
+- selesaiin rank
