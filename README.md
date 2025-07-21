@@ -10,6 +10,7 @@
 - Fix EnderDragon
 - Fix Dungeon ✅
 - Fix TheEnd
+- add collection fish and farm
 - Fix Mancing di java sama bedrock mancing nya gak dapet ikan custom ✅
 - Fix Mancing bedrock
 - selesaiin rank
